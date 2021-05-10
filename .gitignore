@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+#firebase
+/importFirebase/serviceAccount.js
+
 # testing
 /coverage
 
