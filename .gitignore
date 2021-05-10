@@ -6,7 +6,7 @@
 .pnp.js
 
 #firebase
-/importFirebase/serviceAccount.js
+/importFirebase/serviceAccount.json
 
 # testing
 /coverage
